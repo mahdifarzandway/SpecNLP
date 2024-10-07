@@ -1,6 +1,6 @@
 # SpecNLP
 
-This repository contains the code for the paper: ["SpecNLP: A Pre-trained Model Enhanced with Spectrum Profile for Bug Localization"](https://ieeexplore.ieee.org/abstract/document/10685187).
+This repository contains the code for the paper: [SpecNLP: A Pre-trained Model Enhanced with Spectrum Profile for Bug Localization](https://ieeexplore.ieee.org/abstract/document/10685187).
 
 ## Citation
 If you'd like to cite our work, please use the following citation:
